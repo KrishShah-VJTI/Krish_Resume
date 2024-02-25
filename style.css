@@ -1,0 +1,342 @@
+body{
+    font-family: "Times New Roman";
+    font-size: 18px;
+    background: white;
+}
+
+hr{
+    margin-top:1px ;
+    width: 100%;
+}
+
+.photo{
+}
+#photo{
+    left: 175px;
+    top: 115px;
+    height: 150px;
+    width : 125px;
+    position: absolute;
+    overflow: hidden;
+    border-radius: 100%;
+    z-index: 2;
+}
+
+.name{
+    background: #800020;
+    left: 350px;
+    top: 125px;
+    position: absolute;
+}
+#name1{
+    font-size: 75px;
+    color: white;
+    margin:  0px;
+}
+
+#name2{
+    font-size: 25px;
+    color: white;
+    margin:  10px;
+}
+.contactdetails{
+    background: #800020;
+    margin-top: 0px;
+    left: 350px;
+    top: 210px;
+    position: absolute;
+
+}
+
+#contactdetails1{
+    color: white;
+    margin: 0px;
+}
+
+.blank{
+    }
+#blank1{
+    background: #ffffff;
+    height: 250px;
+    width: 100vw;
+    position: absolute;
+    margin-top: 75px;
+    margin-left: 100px;
+    z-index: -1;
+}
+#blank2{
+    background: #000000;
+    top: 0px;
+    left: 0px;
+    height: 200vw;
+    width: 350px;
+    position: absolute;
+    z-index: -2;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+#blank3{
+    background: #800020;
+    height: 200px;
+    width: 100vw;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 125px;
+    z-index: 0;
+}
+
+.aboutme{
+    top: 350px;
+    left: 360px;
+    position: absolute;
+    color: #800020;
+}
+#aboutme1{
+    margin-bottom: 0px;
+}
+#aboutme2{
+    margin-top: 0px;
+    color: black;
+    width: 95%;
+}
+
+.education{
+    top: 495px;
+    left: 360px;
+    position: absolute;
+
+}
+#education{
+    margin: 1px;
+    color: #800020;
+}
+#education1{
+    margin: 1px;
+}
+#education2{
+    margin-top: 2px;
+    margin-bottom: 10px;
+}
+
+.workexp{
+    top: 765px;
+    left: 360px;
+    position: absolute;
+}
+#workexp1{
+    margin-bottom: 2px;   
+    color: #800020;
+}
+
+.courses{
+    top: 895px;
+    left: 360px;
+    position: absolute;
+}
+#courses1{
+    margin-bottom: 2px;
+    color: #800020;   
+}
+
+.skills{
+    top: 350px;
+    left: 20px;
+    position: absolute;
+}
+#skills1{
+    margin-bottom: 2px;  
+    color: white;
+}
+
+.lang{
+    top: 610px;
+    left: 20px;
+    position: absolute;
+}
+#lang1{
+    margin-bottom: 2px;  
+    color: white;
+}
+
+.int{
+    top: 785px;
+    left: 20px;
+    position: absolute;
+}
+#int1{
+    margin-bottom: 2px;  
+    color: white;
+}
+
+
+.spquare{
+}
+#square1{
+    width: 100px;
+    height: 15px; 
+    position: absolute;
+    background: white;
+    z-index : 1;
+    margin-top:420px;
+    margin-left: 220px; 
+}
+#square2{
+    width: 100px;
+    height: 15px; 
+    position: absolute;
+    background: white;
+    z-index : 1;
+    margin-top:441px;
+    margin-left: 220px; 
+}
+#square3{
+    width: 100px;
+    height: 15px; 
+    position: absolute;
+    background: white;
+    z-index : 1;
+    margin-top:462px;
+    margin-left: 220px; 
+}
+#square4{
+    width: 100px;
+    height: 15px; 
+    position: absolute;
+    background: white;
+    z-index : 1;
+    margin-top:483px;
+    margin-left: 220px; 
+}
+#square5{
+    width: 100px;
+    height: 15px; 
+    position: absolute;
+    background: white;
+    z-index : 1;
+    margin-top:504px;
+    margin-left: 220px; 
+}
+#square6{
+    width: 100px;
+    height: 15px; 
+    position: absolute;
+    background: white;
+    z-index : 1;
+    margin-top:525px;
+    margin-left: 220px; 
+}
+#square7{
+    width: 100px;
+    height: 15px; 
+    position: absolute;
+    background: white;
+    z-index : 1;
+    margin-top:546px;
+    margin-left: 220px; 
+}
+#square8{
+    width: 100px;
+    height: 15px; 
+    position: absolute;
+    background: white;
+    z-index : 1;
+    margin-top:567px;
+    margin-left: 220px; 
+}
+#square9{
+    width: 100px;
+    height: 15px; 
+    position: absolute;
+    background: white;
+    z-index : 1;
+    margin-top:588px;
+    margin-left: 220px; 
+}
+#bar1{
+    width: 80px;
+    height: 15px; 
+    position: absolute;
+    background: #800020;
+    z-index : 1;
+    margin-top:420px;
+    margin-left: 220px; 
+}
+#bar2{
+    width: 50px;
+    height: 15px; 
+    position: absolute;
+    background: #800020;
+    z-index : 1;
+    margin-top:441px;
+    margin-left: 220px; 
+}
+#bar3{
+    width: 50px;
+    height: 15px; 
+    position: absolute;
+    background: #800020;
+    z-index : 1;
+    margin-top:462px;
+    margin-left: 220px; 
+}
+#bar4{
+    width: 30px;
+    height: 15px; 
+    position: absolute;
+    background: #800020;
+    z-index : 1;
+    margin-top:483px;
+    margin-left: 220px; 
+}
+#bar5{
+    width: 80px;
+    height: 15px; 
+    position: absolute;
+    background: #800020;
+    z-index : 1;
+    margin-top:504px;
+    margin-left: 220px; 
+}
+#bar6{
+    width: 80px;
+    height: 15px; 
+    position: absolute;
+    background: #800020;
+    z-index : 1;
+    margin-top:525px;
+    margin-left: 220px; 
+}
+#bar7{
+    width: 70px;
+    height: 15px; 
+    position: absolute;
+    background: #800020;
+    z-index : 1;
+    margin-top:546px;
+    margin-left: 220px; 
+}
+#bar8{
+    width: 80px;
+    height: 15px; 
+    position: absolute;
+    background: #800020;
+    z-index : 1;
+    margin-top:567px;
+    margin-left: 220px; 
+}
+#bar9{
+    width: 70px;
+    height: 15px; 
+    position: absolute;
+    background: #800020;
+    z-index : 1;
+    margin-top:588px;
+    margin-left: 220px; 
+}
+
+.icons{
+    height: 15px;
+    width: 15px;
+    position: relative;
+    z-index: 1;
+}
